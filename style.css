@@ -1,0 +1,42 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background: #eaf2f8;
+    margin: 0;
+    padding: 60px 20px;
+    text-align: center;
+}
+
+.container {
+    background: white;
+    max-width: 650px;
+    margin: auto;
+    padding: 40px;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    color: #2471a3;
+}
+
+h2 {
+    color: #34495e;
+}
+
+p {
+    font-size: 17px;
+    color: #333;
+}
+
+ul {
+    display: inline-block;
+    text-align: left;
+    line-height: 2;
+}
+
+.success {
+    color: #218838;
+    font-weight: bold;
+    margin-top: 25px;
+}
